@@ -1,5 +1,7 @@
 # VS-Code-Tutorial
 
+![VS Code Logo](/images/VSCode.png)
+
 ## What is Visual Studio Code?
 
 Visual Studio Code, or VS Code for short, is a code editor. Code editors are software that allow you to write and edit code, and many offer tools that allow you to run your code in a browser or wherever your code needs to run. Visual Studio Code is a great option for a code editor, especially for those looking to get into code, because it has great community support, it's easy to setup, and it has a lot of amazing features.
